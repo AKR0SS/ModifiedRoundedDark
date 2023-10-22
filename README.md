@@ -2,7 +2,7 @@
 
 *Yet another (rounded) Dark Discord Theme.*
 
-
+> This forked repository is in contribution to the original created by @AdaelynXIV
 
 ![Theme Preview](https://adaelyn.needs.rest/r/Discord_UK5tqOf7UN.png "Theme Preview")
 
