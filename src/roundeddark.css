@@ -1,12 +1,4 @@
-/**
- * @name roundeddark
- * @description Rehaul ux/ui
- * @author AdaelynXIV (Modified by Akross)
- * @version 1.4.2
- * @source https://github.com/AdaelynXIV/RoundedDark
- */
-
- @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
+@import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 
  /* Customizable Variables */
  @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
