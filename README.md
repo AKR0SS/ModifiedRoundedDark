@@ -1,4 +1,4 @@
-# Modified Rounded Dark [![GitHub release](https://img.shields.io/github/release/Akr0ss/modifiedroundeddark?include_prereleases=&sort=semver&color=4a924d&style=flat-square)](https://github.com/Akr0ss/modifiedroundeddark/releases/) [![Discord](https://img.shields.io/discord/344266404993826817?logo=discord&logoColor=white&label=discord&color=7289DA&style=flat-square)](https://discord.gg/ANgfZVa)
+# Modified Rounded Dark [![GitHub release](https://img.shields.io/github/release/Akr0ss/modifiedroundeddark?logo=github&include_prereleases=&sort=semver&color=62b061&style=flat-square)](https://github.com/Akr0ss/modifiedroundeddark/releases/) [![Discord](https://img.shields.io/discord/344266404993826817?logo=discord&logoColor=white&label=discord&color=7289DA&style=flat-square)](https://discord.gg/ANgfZVa)
 
 *Yet another (rounded) Dark Discord Theme.*
 
