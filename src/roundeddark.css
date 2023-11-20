@@ -222,23 +222,16 @@ body,
   border-radius: var(--radius);
 }
 
+.embedWrapper_c143d9 {
+  background-color: var(--darkgrey);
+  border-radius: var(--radius);
+}
+
 /*~ ---------------- Members ---------------- */
 
 /* Guild Memebers Cut-Off Fix */
 .membersWrap__90226 {
   height: 100%;
-}
-
-/*~ ---------------- Notice Bar ---------------- */
-
-.button__587bd {
-  margin-right: 10rem;
-}
-
-.notice__5fd4c {
-  height: 50px;
-  border-radius: var(--radius);
-  margin: 0 0 var(--spacing) var(--spacing);
 }
 
 /*~ ---------------- Notice Bar ---------------- */
