@@ -241,6 +241,24 @@ body,
   margin: 0 0 var(--spacing) var(--spacing);
 }
 
+/*~ ---------------- Notice Bar ---------------- */
+
+.button__587bd {
+  margin-right: 10rem;
+}
+
+.notice__5fd4c {
+  height: 50px;
+  border-radius: var(--radius);
+  margin: 0 0 var(--spacing) var(--spacing);
+}
+
+/*~ ---------------- Friends Section ---------------- */
+
+.channel_c21703 {
+  border-radius: var(--radius);
+}
+
 /*------------------------------------------------------------------------ /
 /                              PLUGIN SUPPORT                              /
 / ------------------------------------------------------------------------*/
